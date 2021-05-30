@@ -1,2 +1,3 @@
-# HELLO-WORLD
-my first repository
+# HELLO-Japan
+## Very Good
+This is a test
